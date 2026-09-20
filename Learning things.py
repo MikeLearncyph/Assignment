@@ -1,1 +1,0 @@
-print(type (AA02))
